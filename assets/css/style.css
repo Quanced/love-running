@@ -280,4 +280,17 @@ footer {
     hr {
         display: none;
     }
+
+/* For medium screen sizes from 950px wide and down */
+
+     #menu {
+    clear: left;
+    float: left;
+    margin-bottom: 20px;
+    line-height: 25px;
+    } 
 }
+
+
+
+
